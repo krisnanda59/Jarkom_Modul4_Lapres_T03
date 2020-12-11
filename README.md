@@ -54,3 +54,9 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    | A11    | 192.168.27.156  | /30     |  
    | A12    | 192.168.26.0    | /24     |  
    | A13    | 192.168.20.0    | /22     |  
+3. Pembuatan jumlah router, switch, klien, dan banyaknya eth di UML disesuaikan dengan topologi yang diminta.
+   Sintaks pembuatan topologi di UML ini berada pada file **topologi.sh**
+   ![01 Membuat Topologi](https://user-images.githubusercontent.com/49342639/101911098-7bcba480-3bf2-11eb-8501-1bf534a990dd.PNG)
+
+   Selain itu, kami juga membuat sintaks untuk mempermudah penutupan UML di file **bye.sh**
+   ![02  Tutup UML](https://user-images.githubusercontent.com/49342639/101911358-d49b3d00-3bf2-11eb-9563-1a66c60e3879.PNG)
