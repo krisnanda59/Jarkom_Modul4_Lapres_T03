@@ -22,19 +22,35 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    | A1     | 1001      | /22     |
    | A2     | 2         | /30     |
    | A3     | 2         | /30     | 
-   | A4     | 701       | /30     |  
-   | A5     | 2021      | /30     |  
-   | A6     | 101       | /30     |  
+   | A4     | 701       | /22     |  
+   | A5     | 2021      | /21     |  
+   | A6     | 101       | /25     |  
    | A7     | 2         | /30     |  
-   | A8     | 502       | /30     |  
-   | A9     | 13        | /30     |  
-   | A10    | 521       | /30     |  
+   | A8     | 502       | /23     |  
+   | A9     | 13        | /28     |  
+   | A10    | 521       | /22     |  
    | A11    | 2         | /30     |  
-   | A12    | 252       | /30     |  
-   | A13    | 721       | /30     |   
+   | A12    | 252       | /24     |  
+   | A13    | 721       | /22     |   
    | **Total**   | **5841**    | **/19**     |   
-   
+
    Jadi, kita dapat menggunakan netmask **/19** untuk memberikan pengalamatan IP pada 13 subnet
 
 2. Subnet besar yang kami bentuk memiliki NID **192.168.0.0** dengan netmask **/19**. Lalu, kita mulai dengan perhitungan pembagian IP dengan bantuan pohon IP
    ![VLSM](https://user-images.githubusercontent.com/49342639/101891944-4b294200-3bd5-11eb-8c69-05e57d656fb6.png)
+   Sehingga, pembagian IP yang memungkinkan untuk topologi yang ada adalah sebagai berikut:
+   | Subnet | NID             | Netmask |
+   | :---:  | :---:           | :---:   |
+   | A1     | 192.168.8.0     | /22     |
+   | A2     | 192.168.27.144  | /30     |
+   | A3     | 192.168.27.148  | /30     | 
+   | A4     | 192.168.12.0    | /22     |  
+   | A5     | 192.168.0.0     | /21     |  
+   | A6     | 192.168.27.0    | /25     |  
+   | A7     | 192.168.27.152  | /30     |  
+   | A8     | 192.168.24.0    | /23     |  
+   | A9     | 192.168.27.128  | /28     |  
+   | A10    | 192.168.16.0    | /22     |  
+   | A11    | 192.168.27.156  | /30     |  
+   | A12    | 192.168.26.0    | /24     |  
+   | A13    | 192.168.20.0    | /22     |  
