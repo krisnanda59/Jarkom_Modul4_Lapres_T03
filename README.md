@@ -33,3 +33,8 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    | A12    | 252       | /30     |  
    | A13    | 721       | /30     |   
    | **Total**   | **5841**    | **/19**     |   
+   
+   Jadi, kita dapat menggunakan netmask **/19** untuk memberikan pengalamatan IP pada 13 subnet
+
+2. Subnet besar yang kami bentuk memiliki NID **192.168.0.0** dengan netmask **/19**. Lalu, kita mulai dengan perhitungan pembagian IP dengan bantuan pohon IP
+   ![VLSM](https://user-images.githubusercontent.com/49342639/101891944-4b294200-3bd5-11eb-8c69-05e57d656fb6.png)
