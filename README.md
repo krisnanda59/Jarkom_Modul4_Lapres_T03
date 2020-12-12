@@ -109,5 +109,17 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    - **JOMBANG**
    
     ![JOMBANG](https://user-images.githubusercontent.com/49342639/101967040-b8c48500-3c4c-11eb-9aab-534f7fa1c821.PNG)
+    
+    - **MADIUN**
+    
+    ![MADIUN](https://user-images.githubusercontent.com/49342639/101967993-93854600-3c4f-11eb-9193-026f0aba28f9.PNG)
+
+   - **BOJONEGORO**
+   
+    ![BOJONEGORO](https://user-images.githubusercontent.com/49342639/101968029-c0395d80-3c4f-11eb-8b3c-24313d895d84.PNG)
+
+   - **NGANJUK**
+   
+    ![NGANJUK](https://user-images.githubusercontent.com/49342639/101968111-07275300-3c50-11eb-9b91-ae3f1b0a0b18.PNG)
 
 
