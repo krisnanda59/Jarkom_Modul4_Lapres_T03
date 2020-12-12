@@ -130,3 +130,15 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
     - **MALANG**
     
      ![MALANG](https://user-images.githubusercontent.com/49342639/101968252-bfed9200-3c50-11eb-8272-f174ea80983c.PNG)
+     
+     - **LUMAJANG**
+     
+     ![LUMAJANG](https://user-images.githubusercontent.com/49342639/101968364-6b96e200-3c51-11eb-865e-d4e804102916.PNG)
+
+    - **BLITAR**
+    
+     ![BLITAR](https://user-images.githubusercontent.com/49342639/101968375-7baec180-3c51-11eb-8bcb-3d44adb58dbe.PNG)
+
+    - **TULUNGAGUNG**
+    
+     ![TULUNGAGUNG](https://user-images.githubusercontent.com/49342639/101968391-8bc6a100-3c51-11eb-91b4-fcc4445043ca.PNG)
