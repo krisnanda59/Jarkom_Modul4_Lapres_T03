@@ -279,3 +279,82 @@ _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
      - IP pada Interface BONDOWOSO yang mengarah ke PROBOLINGGO
      
       ![Ke Probolinggo](https://user-images.githubusercontent.com/49342639/101983747-957ef180-3caf-11eb-8981-f5b84cede08b.PNG)
+      
+   - **BATU (Sebagai Router)**
+     - IP pada Interface BATU yang mengarah ke SURABAYA
+     
+      ![Ke Surabaya](https://user-images.githubusercontent.com/49342639/101985108-80f32700-3cb8-11eb-854a-ee33d4e22852.PNG)
+
+     - IP pada Interface BATU yang mengarah ke KEDIRI
+     
+      ![Ke Kediri](https://user-images.githubusercontent.com/49342639/101985118-95cfba80-3cb8-11eb-8dde-feb73c32783d.PNG)
+
+     - IP pada Interface BATU yang mengarah ke JOMBANG dan MADIUN
+     
+      ![Ke Jombang dan Madiun](https://user-images.githubusercontent.com/49342639/101985193-18587a00-3cb9-11eb-9f67-1e1ef5c20430.PNG)
+
+     - IP pada Interface BATU yang mengarah ke NGANJUK
+     
+      ![Ke Nganjuk](https://user-images.githubusercontent.com/49342639/101985205-28705980-3cb9-11eb-8dc6-f7f93053baec.PNG)
+
+   - **JOMBANG (Sebagai Klien)**
+     - IP pada Interface JOMBANG yang mengarah ke BATU dan MADIUN
+     
+      ![Ke Batu dan Madiun](https://user-images.githubusercontent.com/49342639/101985247-6bcac800-3cb9-11eb-8149-931d218a5311.PNG)
+
+   - **MADIUN (Sebagai Router)**
+     - IP pada Interface MADIUN yang mengarah ke BATU dan JOMBANG
+     
+      ![Ke Batu dan Jombang](https://user-images.githubusercontent.com/49342639/101985292-b4828100-3cb9-11eb-878f-e2133d6ed708.PNG)
+
+     - IP pada Interface MADIUN yang mengarah ke BOJONEGORO
+     
+      ![Ke Bojonegoro](https://user-images.githubusercontent.com/49342639/101985320-ded43e80-3cb9-11eb-8f72-20ac4b0e03c3.PNG)
+
+   - **BOJONEGORO (Sebagai Klien)**
+     - IP pada Interface BOJONEGORO yang mengarah ke MADIUN
+     
+      ![Ke Madiun](https://user-images.githubusercontent.com/49342639/101985383-48544d00-3cba-11eb-8dc1-4ce598965b29.PNG)
+
+   - **NGANJUK (Sebagai Klien)**
+     - IP pada Interface NGANJUK yang mengarah ke BATU
+     
+      ![Ke Batu](https://user-images.githubusercontent.com/49342639/101985475-d3354780-3cba-11eb-9f11-fd778c2dd7a2.PNG)
+
+
+   - **KEDIRI (Sebagai Router)**
+     - IP pada Interface KEDIRI yang mengarah ke BATU
+     
+      ![Ke Batu](https://user-images.githubusercontent.com/49342639/101985535-39ba6580-3cbb-11eb-80d2-ffdbac2e7c48.PNG)
+
+     - IP pada Interface KEDIRI yang mengarah ke MALANG
+     
+      ![Ke Malang](https://user-images.githubusercontent.com/49342639/101985546-48088180-3cbb-11eb-84a8-cbbc20704cfc.PNG)
+
+     - IP pada Interface KEDIRI yang mengarah ke BLITAR dan LUMAJANG
+     
+      ![Ke Blitar dan Lumajang](https://user-images.githubusercontent.com/49342639/101985556-53f44380-3cbb-11eb-8240-2c623bb2a7bb.PNG)
+
+   - **MALANG (Sebagai Server)**
+     - IP pada Interface MALANG yang mengarah ke KEDIRI
+     
+      ![Ke Kediri](https://user-images.githubusercontent.com/49342639/101985588-97e74880-3cbb-11eb-9b21-f80b7fa3aede.PNG)
+
+   - **BLITAR (Sebagai Router)**
+     - IP pada Interface BLITAR yang mengarah ke KEDIRI dan LUMAJANG
+     
+      ![Ke Kediri dan Lumajang](https://user-images.githubusercontent.com/49342639/101985654-0a582880-3cbc-11eb-986f-2050059c1eb6.PNG)
+
+     - IP pada Interface BLITAR yang mengarah ke TULUNGAGUNG
+     
+      ![Ke Tulungagung](https://user-images.githubusercontent.com/49342639/101985666-17751780-3cbc-11eb-9206-e9306dc655c6.PNG)
+
+   - **LUMAJANG (Sebagai Klien)**
+     - IP pada Interface LUMAJANG yang mengarah ke KEDIRI dan BLITAR
+     
+      ![Ke Kediri dan Blitar](https://user-images.githubusercontent.com/49342639/101985766-8fdbd880-3cbc-11eb-8209-c2d8d06af643.PNG)
+
+   - **TULUNGAGUNG (Sebagai Klien)**
+     - IP pada Interface TULUNGAGUNG yang mengarah ke BLITAR
+     
+      ![Ke Blitar](https://user-images.githubusercontent.com/49342639/101985805-c87bb200-3cbc-11eb-8ef8-1742e2ac38ab.PNG)
