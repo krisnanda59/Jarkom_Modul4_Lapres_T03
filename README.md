@@ -229,4 +229,9 @@ _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
      - IP pada Interface SURABAYA yang mengarah ke BATU
      
       ![Ke Batu](https://user-images.githubusercontent.com/49342639/101979405-7d977580-3c8f-11eb-9401-0bb08d190556.PNG)
+      
+   - **SAMPANG (Sebagai Klien)**
+     - IP pada Interface SAMPANG yang mengarah ke SURABAYA
+     
+      ![Ke Surabaya](https://user-images.githubusercontent.com/49342639/101979568-a79d6780-3c90-11eb-8751-e8ba19339bf4.PNG)
   
