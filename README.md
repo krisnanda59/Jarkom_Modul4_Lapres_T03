@@ -144,6 +144,7 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
      ![TULUNGAGUNG](https://user-images.githubusercontent.com/49342639/101968391-8bc6a100-3c51-11eb-91b4-fcc4445043ca.PNG)
      
 5. Routing pada setiap router dengan menambahkan dua perintah:
-   -```post-up route add -net <NID> netmask <NETMASK> gw <GATEWAY>``` bertujuan agar  setelah *interface-*nya **nyala**, maka dia akan dapat secara otomatis menambahkan *static route-*nya
-   -```post-down route add -net <NID> netmask <NETMASK> gw <GATEWAY>``` bertujuan agar  setelah *interface-*nya **mati**, maka dia akan dapat secara otomatis menghilangkan *static route-*nya
+   1) ```post-up route add -net <NID> netmask <NETMASK> gw <GATEWAY>``` bertujuan agar  setelah *interfacenya* **nyala**, maka dia akan dapat secara otomatis menambahkan *static routenya*
+   2) ```post-down route add -net <NID> netmask <NETMASK> gw <GATEWAY>``` bertujuan agar  setelah *interfacenya* **mati**, maka dia akan dapat secara otomatis menghilangkan *static routenya*
    Kedua perintah tersebut ditempatkan di file **/etc/network/interfaces/** dan di setiap barisan terbawah dari _interfaces_ yang menghubungkannya.
+
