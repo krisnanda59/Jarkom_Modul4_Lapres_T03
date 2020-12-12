@@ -159,4 +159,26 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
   
     ![PASURUAN-1](https://user-images.githubusercontent.com/49342639/101969143-6dfb3b00-3c55-11eb-85c0-aeec62ca5a28.PNG)
     ![PASURUAN-2](https://user-images.githubusercontent.com/49342639/101969146-70f62b80-3c55-11eb-8b48-c78895fb666c.PNG)
+    
+    - **PROBOLINGGO**
+    
+   ![PROBOLINGGO-1](https://user-images.githubusercontent.com/49342639/101976598-503fcd00-3c79-11eb-808b-7ef60bad2741.PNG)
+
+   - **BATU**
+    
+    ![BATU-1](https://user-images.githubusercontent.com/49342639/101976735-bf69f100-3c7a-11eb-8fda-4a5f45c7d6c0.PNG)
+    ![BATU-2](https://user-images.githubusercontent.com/49342639/101976737-c264e180-3c7a-11eb-99ed-3e259f1774a8.PNG)
+
+   - **MADIUN**
+   
+    ![MADIUN](https://user-images.githubusercontent.com/49342639/101976751-e6282780-3c7a-11eb-83ee-7bfcf6e5d5e4.PNG)
+
+   - **KEDIRI**
+   
+    ![KEDIRI-1](https://user-images.githubusercontent.com/49342639/101976756-f6400700-3c7a-11eb-9582-a9c4ef66be7d.PNG)
+    ![KEDIRI-2](https://user-images.githubusercontent.com/49342639/101976757-f8a26100-3c7a-11eb-9890-8801e6deaf17.PNG)
+
+   - **BLITAR**
+   
+    ![BLITAR](https://user-images.githubusercontent.com/49342639/101976761-07891380-3c7b-11eb-9d43-f7e4162cbb4a.PNG)
 
