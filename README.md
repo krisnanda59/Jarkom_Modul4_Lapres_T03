@@ -183,10 +183,13 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
     ![BLITAR](https://user-images.githubusercontent.com/49342639/101976761-07891380-3c7b-11eb-9d43-f7e4162cbb4a.PNG)
 
 
+
+
 ## Perhitungang CIDR
 1. Dari proses penggabungan yang telah dilakukan, didapatkan sebuah subnet besar dengan netmask **/16**. Kali ini dapat menggunakan NID **192.168.0.0**, netmask **/16**
 2. Menghitung pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan
    ![CIDR](https://user-images.githubusercontent.com/49342639/101978944-8be39280-3c8b-11eb-8cbf-f84d9cdc14f0.png)
+   
    Sehingga, pembagian IP yang memungkinkan untuk topologi yang ada adalah sebagai berikut:
    | Subnet | NID             | Netmask |
    | :---:  | :---:           | :---:   |
