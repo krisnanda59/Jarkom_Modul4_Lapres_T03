@@ -209,7 +209,7 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    ![Topologi](https://user-images.githubusercontent.com/49342639/101979222-d403b480-3c8d-11eb-92e1-6b4f53c81170.PNG)
 4. Setting IP untuk masing-masing _interface_ yang ada di setiap _device_ sesuai dengan pembagian subnet pada pohon **CIDR**.
 _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
-   - **SURABAYA (Sebagai Server)**
+   - **SURABAYA (Sebagai Router)**
      - IP pada Interface SURABAYA yang mengarah ke CLOUD
       
       ![Ke Cloud](https://user-images.githubusercontent.com/49342639/101979399-77a19480-3c8f-11eb-8d9f-8794df2e828f.PNG)
@@ -229,9 +229,18 @@ _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
      - IP pada Interface SURABAYA yang mengarah ke BATU
      
       ![Ke Batu](https://user-images.githubusercontent.com/49342639/101979405-7d977580-3c8f-11eb-9401-0bb08d190556.PNG)
-      
+
    - **SAMPANG (Sebagai Klien)**
      - IP pada Interface SAMPANG yang mengarah ke SURABAYA
      
       ![Ke Surabaya](https://user-images.githubusercontent.com/49342639/101979568-a79d6780-3c90-11eb-8751-e8ba19339bf4.PNG)
-  
+
+   - **MOJOKERTO (Sebagai Server)**
+     - IP pada Interface MOJOKERTO yang mengarah ke SURABAYA
+     
+      ![Ke Surabaya](https://user-images.githubusercontent.com/49342639/101983188-cc530880-3cab-11eb-9f1c-5abe1ad569e1.PNG)
+
+   - **PASURUAN (Sebagai Router)**
+     - IP pada Interface PASURUAN yang mengarah ke SURABAYA
+     
+      ![Ke Surabaya](https://user-images.githubusercontent.com/49342639/101983263-877ba180-3cac-11eb-876d-7fbcb55f28ad.PNG)
