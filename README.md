@@ -358,3 +358,56 @@ _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
      - IP pada Interface TULUNGAGUNG yang mengarah ke BLITAR
      
       ![Ke Blitar](https://user-images.githubusercontent.com/49342639/101985805-c87bb200-3cbc-11eb-8ef8-1742e2ac38ab.PNG)
+      
+5. Routing pada setiap router. Routing dapat dilakukan pada menu **Config > Routing > Static** pada device Router. Lalu isi **Static Routes** dengan subnet tujuan yang ingin ditambahkan di dalam rute
+   - **SURABAYA**
+    ```
+    192.168.27.148/30 via 192.168.27.146
+    192.168.12.0/22 via 192.168.27.146
+    192.168.0.0/21 via 192.168.27.146
+    192.168.27.0/25 via 192.168.27.146
+    192.168.24.0/23 via 192.168.27.154
+    192.168.27.128 via 192.168.27.154
+    192.168.16.0/22 via 192.168.27.154
+    192.168.27.156/30 via 192.168.27.154
+    10.151.73.156/30 via 192.168.27.154
+    192.168.26.0/24 via 192.168.27.154
+    192.168.20.0/22 via 192.168.27.154
+    ```
+
+   - **PASURUAN**
+    ```
+    0.0.0.0/0 via 192.168.27.145
+    192.168.27.0/25 via 192.168.27.150
+    192.168.0/21 via 192.168.27.150
+    ```
+
+   - **PROBOLINGGO**
+    ```
+    0.0.0.0/0 via 192.168.27.149
+    ```
+
+   - **BATU**
+    ```
+    0.0.0.0/0 via 192.168.27.153
+    192.168.27.128/28 via 192.168.24.2
+    10.151.73.156/30 via 192.168.27.158
+    192.168.26.0/24 via 192.168.27.158
+    192.168.20.0/22 via 192.168.27.158
+    ```
+
+   - **MADIUN**
+    ```
+    0.0.0.0/0 via 192.168.24.1
+    ```
+
+   - **KEDIRI**
+    ```
+    0.0.0.0/0 via 192.168.27.157
+    192.168.20.0/22 via 192.168.26.2
+    ```
+
+   - **BLITAR**
+    ```
+    0.0.0.0/0 via 192.168.26.1
+    ```
