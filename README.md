@@ -121,5 +121,12 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    - **NGANJUK**
    
     ![NGANJUK](https://user-images.githubusercontent.com/49342639/101968111-07275300-3c50-11eb-9b91-ae3f1b0a0b18.PNG)
+    
+    - **KEDIRI**
+    
+     ![KEDIRI-1](https://user-images.githubusercontent.com/49342639/101968220-9b91b580-3c50-11eb-9a29-2e4b12b8914b.PNG)
+     ![KEDIRI-2](https://user-images.githubusercontent.com/49342639/101968223-9df40f80-3c50-11eb-80a1-6e310b1f3239.PNG)
 
-
+    - **MALANG**
+    
+     ![MALANG](https://user-images.githubusercontent.com/49342639/101968252-bfed9200-3c50-11eb-8272-f174ea80983c.PNG)
