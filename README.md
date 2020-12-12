@@ -244,3 +244,23 @@ _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
      - IP pada Interface PASURUAN yang mengarah ke SURABAYA
      
       ![Ke Surabaya](https://user-images.githubusercontent.com/49342639/101983263-877ba180-3cac-11eb-876d-7fbcb55f28ad.PNG)
+
+     - IP pada Interface PASURUAN yang mengarah ke PROBOLINGGO
+     
+      ![Ke Probolinggo](https://user-images.githubusercontent.com/49342639/101983361-38823c00-3cad-11eb-875a-c9bd7d70d9da.PNG)
+
+     - IP pada Interface PASURUAN yang mengarah ke SIDOARJO
+     
+      ![Ke Sidoarjo](https://user-images.githubusercontent.com/49342639/101983381-5fd90900-3cad-11eb-8bf9-f83ce4c29981.PNG)
+
+   - **PROBOLINGGO (Sebagai Router)**
+     - IP pada Interface PROBOLINGGO yang mengarah ke PASURUAN
+     
+      ![Ke Pasuruan](https://user-images.githubusercontent.com/49342639/101983492-e261c880-3cad-11eb-9b3c-6c5aec71b107.PNG)
+     - IP pada Interface PROBOLINGGO yang mengarah ke JEMBER dan BANYUWANGI
+     
+      ![Ke Jember   Banyuwangi](https://user-images.githubusercontent.com/49342639/101983496-e5f54f80-3cad-11eb-9399-be95b5f1946f.PNG)
+
+     - IP pada Interface PROBOLINGGO yang mengarah ke BONDOWOSO
+     
+      ![Ke Bondowoso](https://user-images.githubusercontent.com/49342639/101983494-e4c42280-3cad-11eb-932a-55d326fb8f63.PNG)
