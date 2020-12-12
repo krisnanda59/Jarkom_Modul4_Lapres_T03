@@ -154,4 +154,9 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
   
     ![SURABAYA-2](https://user-images.githubusercontent.com/49342639/101968934-596a7300-3c54-11eb-89c8-283fb30ee0e1.PNG)
     ![SURABAYA-3](https://user-images.githubusercontent.com/49342639/101968937-5bcccd00-3c54-11eb-8e77-7f1fdcd7f83c.PNG)
+    
+    - **PASURUAN**
+  
+    ![PASURUAN-1](https://user-images.githubusercontent.com/49342639/101969143-6dfb3b00-3c55-11eb-85c0-aeec62ca5a28.PNG)
+    ![PASURUAN-2](https://user-images.githubusercontent.com/49342639/101969146-70f62b80-3c55-11eb-8b48-c78895fb666c.PNG)
 
