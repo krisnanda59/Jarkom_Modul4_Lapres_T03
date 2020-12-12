@@ -189,7 +189,6 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
 1. Dari proses penggabungan yang telah dilakukan, didapatkan sebuah subnet besar dengan netmask **/16**. Kali ini dapat menggunakan NID **192.168.0.0**, netmask **/16**
 2. Menghitung pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan
    ![CIDR](https://user-images.githubusercontent.com/49342639/101978944-8be39280-3c8b-11eb-8cbf-f84d9cdc14f0.png)
-   
    Sehingga, pembagian IP yang memungkinkan untuk topologi yang ada adalah sebagai berikut:
    | Subnet | NID             | Netmask |
    | :---:  | :---:           | :---:   |
@@ -205,4 +204,29 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    | A10    | 192.168.20.0    | /22     |  
    | A11    | 192.168.8.0     | /30     |  
    | A12    | 192.168.0.0     | /24     |  
-   | A13    | 192.168.4.0     | /22     | 
+   | A13    | 192.168.4.0     | /22     |
+3. _Labelling IP_ pada setiap subnet yang telah terbagi pada tahap **Preface**
+   ![Topologi](https://user-images.githubusercontent.com/49342639/101979222-d403b480-3c8d-11eb-92e1-6b4f53c81170.PNG)
+4. Setting IP untuk masing-masing _interface_ yang ada di setiap _device_ sesuai dengan pembagian subnet pada pohon **CIDR**.
+_Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
+   - **SURABAYA (Sebagai Server)**
+     - IP pada Interface SURABAYA yang mengarah ke CLOUD
+      
+      ![Ke Cloud](https://user-images.githubusercontent.com/49342639/101979399-77a19480-3c8f-11eb-8d9f-8794df2e828f.PNG)
+
+     - IP pada Interface SURABAYA yang mengarah ke MOJOKERTO
+     
+      ![Ke Mojokerto](https://user-images.githubusercontent.com/49342639/101979401-7a03ee80-3c8f-11eb-8bf4-d99866054d0a.PNG)
+
+     - IP pada Interface SURABAYA yang mengarah ke PASURUAN
+     
+      ![Ke Pasuruan](https://user-images.githubusercontent.com/49342639/101979403-7b351b80-3c8f-11eb-9b9d-cc799b8f3b1e.PNG)
+
+     - IP pada Interface SURABAYA yang mengarah ke SAMPANG
+     
+      ![Ke Sampang](https://user-images.githubusercontent.com/49342639/101979404-7c664880-3c8f-11eb-9602-6c11ac8caf9c.PNG)
+  
+     - IP pada Interface SURABAYA yang mengarah ke BATU
+     
+      ![Ke Batu](https://user-images.githubusercontent.com/49342639/101979405-7d977580-3c8f-11eb-9401-0bb08d190556.PNG)
+  
