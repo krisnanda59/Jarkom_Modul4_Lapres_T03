@@ -62,6 +62,7 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    ![02  Tutup UML](https://user-images.githubusercontent.com/49342639/101911358-d49b3d00-3bf2-11eb-9563-1a66c60e3879.PNG)
 4. Setting IP untuk setiap UML pada file **/etc/network/interfaces** sesuai dengan pembagian IP pada setiap subnet
    - **SURABAYA**
+   
     ![SURABAYA-1](https://user-images.githubusercontent.com/49342639/101965538-94b27500-3c47-11eb-96a1-2b8cf5606610.PNG)
     ![SURABAYA-2](https://user-images.githubusercontent.com/49342639/101965487-67fe5d80-3c47-11eb-9e59-e3a1ca39e214.PNG)
     ![SURABAYA-3](https://user-images.githubusercontent.com/49342639/101965324-da227280-3c46-11eb-9eee-29ac73bea13a.PNG)
