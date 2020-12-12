@@ -264,3 +264,18 @@ _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
      - IP pada Interface PROBOLINGGO yang mengarah ke BONDOWOSO
      
       ![Ke Bondowoso](https://user-images.githubusercontent.com/49342639/101983494-e4c42280-3cad-11eb-932a-55d326fb8f63.PNG)
+      
+   - **JEMBER (Sebagai Klien)**
+     - IP pada Interface JEMBER yang mengarah ke PROBOLINGGO
+     
+      ![Ke Probolinggo](https://user-images.githubusercontent.com/49342639/101983705-594b9100-3caf-11eb-9188-266642843c38.PNG)
+
+   - **BANYUWANGI (Sebagai Klien)**
+     - IP pada Interface BANYUWANGI yang mengarah ke PROBOLINGGO
+     
+      ![Ke Probolinggo](https://user-images.githubusercontent.com/49342639/101983733-85671200-3caf-11eb-834a-55d970cd342d.PNG)
+
+   - **BONDOWOSO (Sebagai Klien)**
+     - IP pada Interface BONDOWOSO yang mengarah ke PROBOLINGGO
+     
+      ![Ke Probolinggo](https://user-images.githubusercontent.com/49342639/101983747-957ef180-3caf-11eb-8981-f5b84cede08b.PNG)
