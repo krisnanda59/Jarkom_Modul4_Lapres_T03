@@ -205,7 +205,7 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    | A11    | 192.168.8.0     | /30     |  
    | A12    | 192.168.0.0     | /24     |  
    | A13    | 192.168.4.0     | /22     |
-3. _Labelling IP_ pada setiap subnet yang telah terbagi pada tahap **Preface**
+3. _Labelling IP_ sesuai pembagian IP yang didapatkan dari pohon **CIDR** pada setiap subnet yang telah terbagi pada tahap **Preface**
    ![Topologi](https://user-images.githubusercontent.com/49342639/101979222-d403b480-3c8d-11eb-92e1-6b4f53c81170.PNG)
 4. Setting IP untuk masing-masing _interface_ yang ada di setiap _device_ sesuai dengan pembagian subnet pada pohon **CIDR**.
 _Interface_ dapat diatur pada menu **Config > INTERFACE > “nama interface”**
