@@ -148,4 +148,10 @@ Topologi tersebut dilakukan perhitungan pembagian subnet dengan menggunakan meto
    2) ```post-down route add -net <NID> netmask <NETMASK> gw <GATEWAY>``` bertujuan agar  setelah *interfacenya* **mati**, maka dia akan dapat secara otomatis menghilangkan *static routenya*
    
    Kedua perintah tersebut ditempatkan di file **/etc/network/interfaces/** dan di setiap barisan terbawah dari _interfaces_ yang menghubungkannya.
+   
+   
+   - **SURABAYA**
+  
+    ![SURABAYA-2](https://user-images.githubusercontent.com/49342639/101968934-596a7300-3c54-11eb-89c8-283fb30ee0e1.PNG)
+    ![SURABAYA-3](https://user-images.githubusercontent.com/49342639/101968937-5bcccd00-3c54-11eb-8e77-7f1fdcd7f83c.PNG)
 
